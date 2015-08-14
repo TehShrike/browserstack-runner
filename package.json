@@ -1,11 +1,11 @@
 {
-  "name": "browserstack-runner",
-  "description": "A command line interface to run browser tests over BrowserStack",
-  "version": "0.3.6",
-  "homepage": "https://github.com/browserstack/browserstack-runner",
+  "name": "browserstack-runner-tehshrike",
+  "description": "A fork of browserstack-runner with a fix that hasn't been published yet on the main repo",
+  "version": "0.4.0",
+  "homepage": "https://github.com/tehshrike/browserstack-runner",
   "repository": {
     "type": "git",
-    "url": "https://github.com/browserstack/browserstack-runner.git"
+    "url": "https://github.com/tehshrike/browserstack-runner.git"
   },
   "dependencies": {
     "browserstack": "1.1.0",
@@ -19,7 +19,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/browserstack/browserstack-runner/blob/master/MIT-LICENSE.txt"
+      "url": "https://github.com/tehshrike/browserstack-runner/blob/master/MIT-LICENSE.txt"
     }
   ],
   "bin": {
