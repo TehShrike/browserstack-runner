@@ -1,7 +1,7 @@
 {
   "name": "browserstack-runner-tehshrike",
   "description": "A fork of browserstack-runner with a fix that hasn't been published yet on the main repo",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "homepage": "https://github.com/tehshrike/browserstack-runner",
   "repository": {
     "type": "git",
