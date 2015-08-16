@@ -1,3 +1,4 @@
 .editorconfig
 .jshintrc
 tests
+lib/BrowserStackLocal
